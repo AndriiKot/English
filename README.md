@@ -1,4 +1,4 @@
-﻿# Lesson 1
+﻿# [Lesson 1](https://www.youtube.com/watch?v=OUXnXIU_E5I&list=PLD6SPjEPomatoOVGOzBcAYYNgSGyC0NK2)
 ## Present Simple
 
 #### I Phrases
@@ -38,6 +38,41 @@
 5. Nice to meet you! 
 6. You, too
 7. Nice to meet you, too
+
+### Dialogues
+##### Dialogue 1
+1. What's your name? 
+My name is Andrii. And You?
+
+2. Nice to meet you, Andrii. My name's Oksana.
+    Very nice to meet you, Oksana.
+    Version 2
+    Nice to meet you, too.
+    Version 3
+    You too
+
+### Dialogues
+##### Dialogue 2
+1. Where are you from?
+     I'm from Slovakia. And you?
+    
+2. I'm from the US. / U.S.
+   Version 2
+   I'm from the USA.
+   Version 3
+   I'm from the United States of America.  
+
+3. What city do you live in?
+   I live in Bratislava.And you?
+   Version 2 
+   I am form Bratislava.
+
+4. I am from New York.
+ 
+
+
+
+
 
 
 
