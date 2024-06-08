@@ -32,3 +32,10 @@ Maryna:
 Andrii:
     I lived in Kharkov for more than 30 years
     Pavlo: Me too
+
+Maryna:
+    Lovely to meet you , Olya!
+     What sort of hobbies do you have? 
+
+Наталья:
+    Can you share some pictures of your work with us?
