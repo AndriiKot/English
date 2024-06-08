@@ -1,5 +1,5 @@
 ﻿projects = {
-  _0_day: "https://github.com/AndriiKot/Marathon__acquaintance__day_1.git",
+  _0-1_day: "https://github.com/AndriiKot/Marathon__acquaintance__day_1.git",
 }
 
 update = "git subtree pull --prefix "
