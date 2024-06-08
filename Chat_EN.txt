@@ -1,0 +1,17 @@
+﻿
+Andrii:
+    My name is Andrii. I am 38 years old. I live in Slovakia. Studied German level A2 - B1.
+    I'm looking for a job as a programmer
+
+Daryna:
+    Hello my  name is Daryna . I am 11 years  . I live in UKRAINE
+
+
+Olena:
+    Hello, my name Olena, but my friend call me Alyona. 
+    I am 18 years old. I live in Ukraine. I am a student, I study finance at the university. 
+
+Blonda Alyona:
+    Hi,my name is Alyona.
+    Nice to meet you
+    
