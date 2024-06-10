@@ -33,9 +33,9 @@ We
 
 always - usually - often - rarely / seldom - never
 
-Our students communicate every day
+Our students communicate every day "\n"
 
-I'm always confident in myself.
+I'm always confident in myself. '\n'
 
 Our students are the best.
 I love traveling with my family.
