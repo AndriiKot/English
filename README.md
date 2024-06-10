@@ -12,15 +12,15 @@ You
 They  (like, watch)
 We 
 
-He 
-She  s/es (likes, watches)
-It
+    He 
+    She  s/es (likes, watches)
+    It
 
-es:
-s, ss, x, sh, ch, o
+    es:
+    s, ss, x, sh, ch, o
 
-to be(am, is, are)
-do , does 
+    to be(am, is, are)
+    do , does 
 
 ##### Present Continuous
 ###### Words: At the moment / Now / Currently
