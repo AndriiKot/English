@@ -25,9 +25,9 @@ do , does
 ##### Present Continuous
 ###### Words: At the moment / Now / Currently
 
-to be + V-ing 
+    to be + V-ing 
 
-I am doing my homework.
+    I am doing my homework.
 
 ### PRAX (Present Simple)
 
