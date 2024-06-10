@@ -1,4 +1,36 @@
-﻿
+﻿# English
+## Marathon UA
+### Day 1
+
+#### Present Simple and Present Continuous
+
+##### Present Simple
+###### Words:  always - usually - often - rarely / Seldom - never
+
+I 
+You 
+They  (like, watch)
+We 
+
+He 
+She  s/es (likes, watches)
+It
+
+es:
+s, ss, x, sh, ch, o
+
+to be(am, is, are)
+do , does 
+
+##### Present Continuous
+###### Words: At the moment / Now / Currently
+
+to be + V-ing 
+
+I am doing my homework.
+
+### PRAX (Present Simple)
+
 Present Simple
 never  -  always
 rarely - often
@@ -52,5 +84,39 @@ Am I happy?
 
 to be(am, is, are)
 do , does 
+
+### PRAX (Present Continuous)
+
+At the moment / Now / Currently
+
+I am doing yoga.
+I am reading.
+I am sleeping.
+I am traveling.
+I am watching TV.
+I am working.
+
+I am doing my homework.
+I am swimming.
+I am texting with my friends.
+
+I am messaging you in private messages.
+I am PMing you.
+PM - private message
+
+I am relaxing with my family.
+I am sleeping now.
+I am eating now.
+
+
+I am not swimming now.
+I am not relaxing now.
+I am not working now.
+
+Is she sleeping now?
+Is he sleeping now?
+Am I dreaming now?
+
+Are you listening to me?
 
 
