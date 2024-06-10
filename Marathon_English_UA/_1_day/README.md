@@ -5,7 +5,7 @@
 #### Present Simple and Present Continuous
 
 ##### Present Simple
-###### Words:  always - usually - often - rarely / Seldom - never
+###### Words:  always - usually - often - rarely / seldom - never
 
 I 
 You 
