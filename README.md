@@ -33,7 +33,7 @@ We
 
 always - usually - often - rarely / seldom - never
 
-Our students communicate every day 
+Our students communicate every day   
 I'm always confident in myself. 
 
 Our students are the best.
