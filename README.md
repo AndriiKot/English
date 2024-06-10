@@ -31,12 +31,7 @@ We
 
 ### PRAX (Present Simple)
 
-Present Simple
-never  -  always
-rarely - often
-usually 
-
-always - usually - often - rarely / Seldom - never
+always - usually - often - rarely / seldom - never
 
 Our students communicate every day
 I'm always confident in myself.
