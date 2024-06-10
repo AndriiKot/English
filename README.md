@@ -42,17 +42,6 @@ Train departs form platform 2.
 The flight to Milan departs from gate 5.    
 The flight to Warsaw departs from gate 3.    
 
-I like  
-You watch  
-They sleep  
-We travel  
-
-He   
-She  s/es   
-It  
-
-s, ss, x, sh, ch, o  
-
 I don't like reading     
 I don't like clubs.    
 I don't like crowds.    
@@ -60,7 +49,6 @@ I don't like staying at home all the time.
 
 She doesn't like crowds.    
 He doesn't like staying at home.    
-
 
 Do you like reading?  
 Do you like traveling?  
@@ -76,9 +64,6 @@ Are you happy?
 You are students.    
 Are you students of Study Less?  
 Am I happy?  
-
-to be(am, is, are)  
-do , does   
 
 ### PRAX (Present Continuous)
 
