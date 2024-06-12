@@ -1,7 +1,7 @@
 ﻿# English
 ## Marathon UA
 ### Day 1
-![Present Simple and Present Continuous]()
+![Present Simple and Present Continuous](https://github.com/AndriiKot/PresentSimple_Count_PreInter_Marathon_UA/blob/main/PreInter_Day1_PresentSimple_Cont.jpg)
 
 #### Present Simple and Present Continuous
 
