@@ -16,12 +16,12 @@ I will speak English fluently
 I think I will change my job           
 I think it will not be hard            
 
-"not"
+"not"  
 I will not come to you in the evening
 I will not visit 50 countries          
 It will not be difficult               
 
-"?"
+"?"  
 Will You come today  to visit me?      
 Will You speak English fluently?       
 Will You invite me to the date?          
